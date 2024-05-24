@@ -1,4 +1,9 @@
-## Hi there 👋
+## **SEJA BEM VINDO NO MEU PERFIL** ☕
+### SOU ALUNO DA _ALURA_ E AQUI VOCE VERÁ MEUS PROJETOS 
+
+### MEU E-MAIL 📧
+
+!{}(https://media1.tenor.com/m/zZBeekcxu_EAAAAC/cat-silly.gif)
 
 <!--
 **pauloroberto6/pauloroberto6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
